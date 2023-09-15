@@ -1,0 +1,8 @@
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\obj\Debug\Ponvaljanje4DdrugiZad3.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\obj\Debug\Ponvaljanje4DdrugiZad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\obj\Debug\Ponvaljanje4DdrugiZad3.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\bin\Debug\Ponvaljanje4DdrugiZad3.exe.config
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\bin\Debug\Ponvaljanje4DdrugiZad3.exe
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\bin\Debug\Ponvaljanje4DdrugiZad3.pdb
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\obj\Debug\Ponvaljanje4DdrugiZad3.exe
+C:\Users\unkno\source\repos\Ponvaljanje4DdrugiZad3\Ponvaljanje4DdrugiZad3\obj\Debug\Ponvaljanje4DdrugiZad3.pdb
